@@ -11,4 +11,4 @@
 
 Feel free to navigate, explore, and reach out—I'd love to connect!
 
-See it in action: ***https://cherrismaa-portfolio.netlify.app/***
+See it in action: ***https://cherrismaa.netlify.app/***
