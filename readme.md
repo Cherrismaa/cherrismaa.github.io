@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Portfolio
+# Welcome to My Portfolio
 
 **Hello and thank you for visiting! This portfolio is a curated showcase of my technical skills, creative projects, and development experience. It reflects my journey as a passionate and detail-oriented developer with a focus on clean design, efficient code, and user-centric solutions.**
 
@@ -9,6 +9,6 @@
 - 🛠️ Skills spanning frontend, backend, and database management
 - 🎯 A growth-driven mindset with an eye for detail and performance
 
-Feel free to navigate, explore, and reach out—I'd love to connect!
+Feel free to navigate, explore, and reach out, I'd love to connect!
 
-See it in action: ***https://cherrismaa.github.io/Cherrismaa-Portfolio/***
+See it in action: ***https://cherrismaa.github.io/***
